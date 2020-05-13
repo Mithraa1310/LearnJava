@@ -18,10 +18,7 @@ public class Learnservice1 {
 		driver.findElementByXPath("(//input[@class='form-control'])[2]").sendKeys("Pleasesaveus#3 or Confusingservice1 ");
 		//jokesapart$ is the password for postman
 		//Aiyyokadavule jira password
-		//
-		//ammakrupa@2 net banking
-		//aarushi2020
-		//Aarushi2020$ signin password for servicenow.. mithraajain@gmail.com
+		
 		driver.findElementById("sysverb_login").click();
 		
 		//testcase1
